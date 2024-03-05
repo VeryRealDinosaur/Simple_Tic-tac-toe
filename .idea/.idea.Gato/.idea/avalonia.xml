@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Gato/App.axaml" value="Gato/Gato.csproj" />
+        <entry key="Gato/Game.axaml" value="Gato/Gato.csproj" />
+        <entry key="Gato/MainWindow.axaml" value="Gato/Gato.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
