@@ -20,6 +20,9 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [/Users/jovanyrobledo/RiderProjects/Gato/Gato/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[/Users/jovanyrobledo/RiderProjects/Gato/Gato/AutoGame.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [/Users/jovanyrobledo/RiderProjects/Gato/Gato/Game.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 

@@ -129,3 +129,4 @@
 /Users/jovanyrobledo/RiderProjects/Gato/Gato/obj/Debug/net8.0/Gato.csproj.Up2Date
 /Users/jovanyrobledo/RiderProjects/Gato/Gato/obj/Debug/net8.0/Gato.genruntimeconfig.cache
 /Users/jovanyrobledo/RiderProjects/Gato/Gato/obj/Debug/net8.0/ref/Gato.dll
+/Users/jovanyrobledo/RiderProjects/Gato/Gato/obj/Debug/net8.0/Gato.sourcelink.json

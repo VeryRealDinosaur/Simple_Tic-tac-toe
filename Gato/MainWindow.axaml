@@ -6,6 +6,22 @@
         x:Class="Gato.MainWindow"
         Title="MainWindow">
         
-        <Button Grid.Row="0" x:Name="Start" Content="Iniciar Nuevo Juego" FontSize="50" Click="Start_OnClick"/>
+        <Grid x:Name="Grid" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+        
+                <Label Grid.Row="0" x:Name="Turn" Content="Super Juego del Gato" FontSize="30"/>
+                
+                <StackPanel x:Name="A" Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button x:Name="Btn1" Click="Start_OnClick" Content="Multiplayer Local" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <Button x:Name="Btn2" Click="Btn2_OnClick" Content="Machine" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                </Grid>
         
 </Window>

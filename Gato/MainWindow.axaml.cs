@@ -25,4 +25,10 @@ public partial class MainWindow : Window
         var secondWindow = new Game();
         secondWindow.Show();
     }
+
+    private void Btn2_OnClick(object? sender, RoutedEventArgs e)
+    {
+        var thirdWindow = new AutoGame();
+        thirdWindow.Show();
+    }
 }

@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="Gato/App.axaml" value="Gato/Gato.csproj" />
+        <entry key="Gato/AutoGame.axaml" value="Gato/Gato.csproj" />
         <entry key="Gato/Game.axaml" value="Gato/Gato.csproj" />
         <entry key="Gato/MainWindow.axaml" value="Gato/Gato.csproj" />
       </map>
