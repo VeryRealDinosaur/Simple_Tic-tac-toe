@@ -119,10 +119,11 @@ namespace Gato
                 button.Background = Brushes.Aqua;
                 button.Content = "O";
                 Estado[index] = 1;
+                Turno++;
             }
             else
             {
-                if (cont < 10)
+                if (cont < 82)
                 {
                     Machine(); 
                 }

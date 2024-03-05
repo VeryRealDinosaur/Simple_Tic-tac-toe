@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3fc74ba595be180a4768dd674227e553f2107d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e51c37fcbac1f6f293e7d394553b0c9b2486ee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
